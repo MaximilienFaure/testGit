@@ -1,1 +1,5 @@
+#Ne pas inclure l'executable de helloWorld.c
 hello
+
+#Ne pas inclure les .class de JAVA
+*.class
