@@ -1,2 +1,7 @@
 Projet : Hello Word
 Objectif : Utiliser Git et Github pour en maitriser les principes 
+
+v0.1 : Ce projet contient le fichier 'helloWorld.c' prêt à être compiler pour afficher "Hello World !"
+v0.2 : Le fichier 'HelloWolrd.java' est prêt à être compiler pour afficher lui aussi "Hello Wolrd!"
+v0.3 : Le fichier 'helloWorld.c' permet maintenant d'afficher "Hello <name's user>"
+
